@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mi Selección — Nodo Basquiat</title>
+    <link rel="stylesheet" href="../css/style.css" />
+    <!-- JS del carrito -->
+    <script src="../js/carrito.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <h1>Nodo Basquiat — Mi Selección</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html" class="link">Volver al Catálogo</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="carrito" class="contenedor-carrito"></section>
+
+        <div class="resumen-compra">
+            <h3>Total: <span id="total-compra">$0</span></h3>
+            <button id="vaciar-carrito" class="btn-secundario">Vaciar Selección</button>
+            <button id="finalizar-compra" class="btn-principal">Confirmar Reserva</button>
+        </div>
+    </main>
+
+    <footer>
+        <span>&copy;2026</span>
+    </footer>
+
+    <!-- Librería SweetAlert2 para modales de confirmación -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+
+</html>

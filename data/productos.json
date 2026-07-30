@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pase VIP — Vernissage Privé",
+        "descripcion": "Acceso a la vista previa de la muestra de arte antes de la apertura general.",
+        "precio": 120,
+        "imagen": "🖼️"
+    },
+    {
+        "id": 2,
+        "nombre": "Catálogo de Colección No. 04",
+        "descripcion": "Publicación editorial en papel de gramaje alto con fotografías de la temporada.",
+        "precio": 45,
+        "imagen": "📖"
+    },
+    {
+        "id": 3,
+        "nombre": "Prototipo Textil — Saco Estructurado",
+        "descripcion": "Pieza única numerada del laboratorio de diseño e indumentaria.",
+        "precio": 350,
+        "imagen": "🧥"
+    },
+    {
+        "id": 4,
+        "nombre": "Ticket Subasta — Piezas Escultóricas",
+        "descripcion": "Lugar reservado para la subasta privada del colectivo de artistas.",
+        "precio": 200,
+        "imagen": "🎟️"
+    },
+    {
+        "id": 5,
+        "nombre": "Serigrafía Firmada 01/10",
+        "descripcion": "Impresión de edición limitada sobre lienzo, seriada y firmada.",
+        "precio": 280,
+        "imagen": "🎨"
+    }
+]
