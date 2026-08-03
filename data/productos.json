@@ -1,37 +1,30 @@
 [
-    {
-        "id": 1,
-        "nombre": "Pase VIP — Vernissage Privé",
-        "descripcion": "Acceso a la vista previa de la muestra de arte antes de la apertura general.",
-        "precio": 120,
-        "imagen": "🖼️"
-    },
-    {
-        "id": 2,
-        "nombre": "Catálogo de Colección No. 04",
-        "descripcion": "Publicación editorial en papel de gramaje alto con fotografías de la temporada.",
-        "precio": 45,
-        "imagen": "📖"
-    },
-    {
-        "id": 3,
-        "nombre": "Prototipo Textil — Saco Estructurado",
-        "descripcion": "Pieza única numerada del laboratorio de diseño e indumentaria.",
-        "precio": 350,
-        "imagen": "🧥"
-    },
-    {
-        "id": 4,
-        "nombre": "Ticket Subasta — Piezas Escultóricas",
-        "descripcion": "Lugar reservado para la subasta privada del colectivo de artistas.",
-        "precio": 200,
-        "imagen": "🎟️"
-    },
-    {
-        "id": 5,
-        "nombre": "Serigrafía Firmada 01/10",
-        "descripcion": "Impresión de edición limitada sobre lienzo, seriada y firmada.",
-        "precio": 280,
-        "imagen": "🎨"
-    }
+{
+"id": 1,
+"nombre": "Pase VIP — Vernissage Privé",
+"precio": 150,
+"descripcion": "Acceso a la vista previa de la muestra de arte antes de la apertura general + degustación de vinos.",
+"imagen": "🖼️"
+},
+{
+"id": 2,
+"nombre": "Catálogo de Colección No. 04",
+"precio": 60,
+"descripcion": "Publicación editorial en papel de gramaje alto con fotografías de la temporada.",
+"imagen": "📖"
+},
+{
+"id": 3,
+"nombre": "Prototipo Textil — Saco Estructurado",
+"precio": 390,
+"descripcion": "Pieza de diseño único confeccionada en lana merino y corte de autor.",
+"imagen": "🧥"
+},
+{
+"id": 4,
+"nombre": "Lámina Serigrafiada — Edición Limitada",
+"precio": 85,
+"descripcion": "Impresión artesanal en serigrafía numerada y firmada por el estudio.",
+"imagen": "🎨"
+}
 ]
