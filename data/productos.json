@@ -10,14 +10,14 @@
 "id": 2,
 "nombre": "Catálogo de Colección No. 04",
 "precio": 60,
-"descripcion": "Publicación editorial en papel de gramaje alto con fotografías de la temporada.",
+"descripcion": "Publicación editorial en papel de gramaje alto con fotografías de las obras.",
 "imagen": "📖"
 },
 {
 "id": 3,
 "nombre": "Prototipo Textil — Saco Estructurado",
-"precio": 390,
-"descripcion": "Pieza de diseño único confeccionada en lana merino y corte de autor.",
+"precio": 990,
+"descripcion": "Pieza de diseño único confeccionada en lana merino intervenida por el artista H.K.",
 "imagen": "🧥"
 },
 {
@@ -28,3 +28,4 @@
 "imagen": "🎨"
 }
 ]
+
